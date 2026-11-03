@@ -18,13 +18,13 @@ say "write my voice.md from these").
 ## What I sound like
 
 - **Language:** Malayalam (spoken, conversational; English loanwords OK)
-- **Addressing the viewer:** not confirmed yet ("നീ" or "നിങ്ങൾ"). The user answered "ഞാൻ മാത്രം", which may mean they speak in the first person ("ഞാൻ"). Ask before the next script.
+- **Addressing the viewer:** "നീ" (informal, close, like talking to a friend). Never "നിങ്ങൾ".
 - **Three of my own reels or captions that sound most like me:** (paste them)
-- **On camera I am:** (fast and loud / dry / calm / funny / deadpan)
+- **On camera I am:** both calm and energetic: calm and warm for gratitude/trust/love, energetic for action and belief
 - **Words I actually use:**
 - **Words I would never say out loud:**
 - **Do I swear:** (yes / mild / no)
-- **Emoji in captions:** (never / one, rarely / freely)
+- **Emoji in captions:** yes, used in captions
 - **Face on camera:** sometimes; mostly faceless
 - **Voiceover or to-camera:** mostly voiceover over b-roll; to-camera sometimes
 - **Pace:** (words per minute. Spoken Malayalam usually runs slower in words
@@ -33,7 +33,7 @@ say "write my voice.md from these").
 
 ## My positions
 
-1.
+1. Trust is what must always be inside us: trust in ourselves, first. ("trust ആണ് എപ്പോഴും ഉള്ളിൽ ഉണ്ടാവേണ്ടത്, നമുക്ക് നമ്മളോട് തന്നെ.")
 2.
 3.
 
