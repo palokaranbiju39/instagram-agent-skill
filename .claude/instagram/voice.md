@@ -9,8 +9,8 @@ say "write my voice.md from these").
 
 ## Who I am
 
-- **Name:**
-- **Handle:** @_manifestora_ai
+- **Name:** Manifestora | Manifestation (name field)
+- **Handle:** @manifestora_ai (changed from @_manifestora_ai on 2026-11-03)
 - **What I do, in one sentence:** Malayalam content on universal laws, manifestation, the law of attraction, gratitude, trust and love.
 - **Who I am talking to:** Malayalam speakers who already believe in and respect universal laws, manifestation, the law of attraction, gratitude, trust and love.
 - **What I sell:** nothing yet (no offer, no product). Keep CTAs to follow / save / comment.
